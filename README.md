@@ -10,3 +10,6 @@ https://www.starlette.io/graphql/
 
 # a nice youtube tutorial 
 [link to youtube tutorial!] (https://www.youtube.com/watch?v=-0uxxht4mko&list=PL525MR2zVGh96WZ3YLxcxfVP6OVCb2zhj)
+
+
+~~the link shoud work by now!~~
