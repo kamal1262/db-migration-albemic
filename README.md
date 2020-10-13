@@ -1,10 +1,10 @@
-# starlette-graphql
-a intro tutorial to use startlette (ASGI lightweight) with graphql
+# albemic -python 
+a intro tutorial to track databse migration scripts
 
 
 
 # intro tutorial: 
-https://www.starlette.io/graphql/
+https://medium.com/@sutharprashant199722/how-to-use-alembic-for-your-database-migrations-d3e93cacf9e8
 
 ``` univon app:<func_name>```
 
