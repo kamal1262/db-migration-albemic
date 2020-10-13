@@ -8,7 +8,33 @@ https://medium.com/@sutharprashant199722/how-to-use-alembic-for-your-database-mi
 
 ``` univon app:<func_name>```
 
-# a nice youtube tutorial 
+
+# Consumer Profile: Table Creations
+
+Consumer Profile database creation on Aurora DB
+
+1. (Optional) To test it locally, please run mysql on your local machine:
+
+```
+docker run --name mysql -e MYSQL_ROOT_PASSWORD=password -e MYSQL_DATABASE=commonsDB -p 3306:3306 -d mysql:5.7
+```
+
+2. Update the changes of the model using:
+
+```
+alembic revision --autogenerate -m "<YOUR-MESSAGE>"
+```
+
+3. Commit the changes to database:
+
+```
+alembic upgrade head
+```
+
+
+
+
+# a nice youtube tutorial on starletter- graphql
 [2]: [link to youtube tutorial!](https://www.youtube.com/watch?v=-0uxxht4mko&list=PL525MR2zVGh96WZ3YLxcxfVP6OVCb2zhj)
 
 [1]: [I'm an inline-style link](https://www.google.com)
