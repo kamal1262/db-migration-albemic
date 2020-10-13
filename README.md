@@ -9,4 +9,4 @@ https://www.starlette.io/graphql/
 ``` univon app:<func_name>```
 
 # a nice youtube tutorial 
-[a link] (https://www.youtube.com/watch?v=-0uxxht4mko&list=PL525MR2zVGh96WZ3YLxcxfVP6OVCb2zhj)
+[link to youtube tutorial!] (https://www.youtube.com/watch?v=-0uxxht4mko&list=PL525MR2zVGh96WZ3YLxcxfVP6OVCb2zhj)
